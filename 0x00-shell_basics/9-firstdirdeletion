@@ -1,0 +1,2 @@
+#!/bin/basm
+rm -r /tmo/my_first_directory
